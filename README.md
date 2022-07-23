@@ -2,6 +2,13 @@
 
 ![My Card Name](https://cardivo.vercel.app/api?name=ALONEPHILIC&description=𝚆𝙴𝙻𝙲𝙾𝙼𝙴%20𝚃𝙾%20𝙼𝚈%20𝙶𝙸𝚃%20|%20𝙼𝚈%20𝙽𝙰𝙼𝙴%20𝙸𝚂%20𝙰𝙺𝙷𝙸𝙻%20𝙼𝙰𝙷𝙴𝚂𝙷%20&image=https://telegra.ph/file/53895fffeaa1197d1b9dd.jpg/images?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=itzme_lucifer01&github=Alone-Philic&twitter=@ItzmeLucifer&pattern=leaf&colorPattern=%23eaeaea)
 
+---
+
+✨️ 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝚂 💫
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alone-Philic&theme=chartreuse-dark)](https://git.io/streak-stats)
+
+---
 <!--
 **Alone-Philic/Alone-Philic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
