@@ -18,8 +18,7 @@
 
 ### ✨️ 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝚁𝙴𝙰𝙺 
 
-[![Akhil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alone-Philic&theme=chartreuse-dark)](https://git.io/streak-stats)
-
+[![Akhil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alone-Philic&theme=chartreuse-dark)](https://github.com/Alone-Philic)
 ### 💞 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃
 
 ![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alone-Philic&show_icons=true&theme=chartreuse-dark)
@@ -27,7 +26,7 @@
 
 ### ☺️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alone-Philic&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alone-Philic&layout=compact&theme=chartreuse-dark)](https://github.com/Alone-Philic)
 
 ---
 
