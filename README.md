@@ -4,12 +4,6 @@
 
 ---
 
-✨️ 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝚂 💫
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alone-Philic&theme=chartreuse-dark)](https://git.io/streak-stats)
-
----
-
 - ✨️ 𝙸'𝙼 𝙲𝚄𝚁𝚁𝙴𝙽𝚃𝙻𝚈 𝚆𝙾𝚁𝙺𝙸𝙽𝙶 𝙾𝙽 <a href src="https://github.com/Alone-Philic/Evania-MD" > 𝙴𝚅𝙰𝙽𝙸𝙰-𝙼𝙳 </a>
 
 - 💞 𝙸'𝙼 𝙹𝚄𝚂𝚃 18 𝚈𝚁𝚂 𝙾𝙻𝙳
@@ -21,6 +15,22 @@
 - 💫 𝙸'𝙼 𝚂𝙴𝙴𝙺𝙸𝙽𝙶 𝙵𝙾𝚁 𝙷𝙴𝙻𝙿 𝚃𝙾 𝙻𝙴𝙰𝚁𝙽 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙼𝙸𝙽𝙶 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝙰 𝙶𝙾𝙾𝙳 𝙼𝙴𝙽𝚃𝙾𝚁
 
 - ☺️ 𝙸𝙵 𝙰𝙽𝚈𝙾𝙽𝙴 𝚆𝙸𝙻𝙻𝙸𝙽𝙶 𝚃𝙾 𝙷𝙴𝙻𝙿 𝙼𝙴 𝚁𝙴𝙰𝙲𝙷 𝙼𝙴 𝚅𝙸𝙰 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼
+
+### ✨️ 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝚁𝙴𝙰𝙺 
+
+[![Akhil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alone-Philic&theme=chartreuse-dark)](https://git.io/streak-stats)
+
+### 💞 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃
+
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alone-Philic&show_icons=true&theme=chartreuse-dark)
+---
+
+### ☺️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alone-Philic&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 <!--
 **Alone-Philic/Alone-Philic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
