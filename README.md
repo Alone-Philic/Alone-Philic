@@ -14,8 +14,7 @@
 
 ### ☺️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alone-Philic&layout=compact&theme=chartreuse-dark)](https://github.com/Alone-Philic)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alone-Philic&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/Alone-Philic)
 ---
 
 <!--
