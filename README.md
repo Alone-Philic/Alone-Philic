@@ -11,8 +11,9 @@
     <summary>About Me</summary>
         <ul>
             <li>I'm Akhil</li>
-            <li>Live in Trivandrum</li>
+            <li>Lives in Trivandrum</li>
             <li>Currently enrolled in a college for my UG in Tanur, Malappuram</li>
+            <li>Subscribe My <a href="https://bit.ly/AlonePhilic_YT">YouTube Channel</a></li>
             <li>Follow me on <a href="https://bit.ly/AlonePhilic">Instagram</a></li>
             <li>Contact me via Mail</li>
             <li>Mail ID: alonephilicreal@proton.me</li>
