@@ -7,7 +7,7 @@
 
 </p>
     
-<details open>
+<details close>
     <summary>About Me</summary>
         <ul>
             <li>I'm Akhil</li>
@@ -25,28 +25,28 @@
 
 <h2>My Git Info's</h2>
 
-<details open>
+<details close>
     <summary>My GitHub Streak</summary>
 
 [![Akhil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alone-Philic&theme=chartreuse-dark)](https://github.com/Alone-Philic)
 
 </details>
 
-<details open>
+<details close>
     <summary>My GitHub Stats</summary>
 
 ![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alone-Philic&show_icons=true&theme=chartreuse-dark)
 
 </details>
 
-<details open>
+<details close>
     <summary>Languages I've Used</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alone-Philic&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/Alone-Philic)
 
 </details>
 
-<details open>
+<details close>
     <summary>My Repos so far</summary>
     
 <h5>Repositories</h5>
