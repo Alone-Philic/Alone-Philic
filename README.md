@@ -15,6 +15,7 @@
             <li>Currently enrolled in a college for my UG in Tanur, Malappuram</li>
             <li>Subscribe My <a href="https://bit.ly/AlonePhilic_YT">YouTube Channel</a></li>
             <li>Follow me on <a href="https://bit.ly/AlonePhilic">Instagram</a></li>
+            <li>Follow me on <a href="http://bit.ly/AlonePhilic-on-Twitter">Twitter</a></a></li>
             <li>Contact me via Mail</li>
             <li>Mail ID: alonephilicreal@proton.me</li>
         </ul>
@@ -53,6 +54,7 @@
         <ul>
             <li><a href="https://github.com/Alone-Philic/Alone-Philic">My Profile Readme</a></li>
             <li><a href="https://github.com/Alone-Philic/HTML-Basic">My first lab program</a>
+            <li><a href="https://github.com/Alone-Philic/Image-as-Link">Image as Link</a>
         </ul>
     
 </details>
