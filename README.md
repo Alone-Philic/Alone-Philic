@@ -54,6 +54,7 @@
         <ul>
             <li><a href="https://github.com/Alone-Philic/Alone-Philic">My Profile Readme</a></li>
             <li><a href="https://github.com/Alone-Philic/My-Notes">My Notes</a>
+            <li><a href="https://github.com/Alone-Philic/Brototype">Notes From Brototype</a> (Private Repo)
         </ul>
     
 </details>
