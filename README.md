@@ -10,7 +10,7 @@
 <details close>
     <summary>About Me</summary>
         <ul>
-            <li>I'm Akhil</li>
+            <li>I'm Akhil Mahesh</li>
             <li>Lives in Trivandrum</li>
             <li>Currently enrolled in a college for my UG in Tanur, Malappuram</li>
             <li>Subscribe My <a href="https://bit.ly/AlonePhilic_YT">YouTube Channel</a></li>
