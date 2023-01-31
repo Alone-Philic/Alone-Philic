@@ -15,7 +15,8 @@
             <li>Currently enrolled in a college for my UG in Tanur, Malappuram</li>
             <li>Subscribe My <a href="https://bit.ly/AlonePhilic_YT">YouTube Channel</a></li>
             <li>Follow me on <a href="https://bit.ly/AlonePhilic">Instagram</a></li>
-            <li>Follow me on <a href="http://bit.ly/AlonePhilic-on-Twitter">Twitter</a></a></li>
+            <li>Follow me on <a href="https://twitter.com/akhi_akxu?t=7C2jl5tTrxIdz_QIuYGslQ&s=09">Twitter</a></a></li>
+            <li>My Other <a href="https://linkr.bio/ItzmeAlonePhilic">Links</a></li>
             <li>Contact me via Mail</li>
             <li>Mail ID: akhi.akxu@gmail.com</li>
         </ul>
