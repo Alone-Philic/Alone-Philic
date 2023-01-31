@@ -53,8 +53,7 @@
 <h5>Repositories</h5>
         <ul>
             <li><a href="https://github.com/Alone-Philic/Alone-Philic">My Profile Readme</a></li>
-            <li><a href="https://github.com/Alone-Philic/HTML-Basic">My first lab program</a>
-            <li><a href="https://github.com/Alone-Philic/Image-as-Link">Image as Link</a>
+            <li><a href="https://github.com/Alone-Philic/My-Notes">My Notes</a>
         </ul>
     
 </details>
