@@ -17,7 +17,7 @@
             <li>Follow me on <a href="https://bit.ly/AlonePhilic">Instagram</a></li>
             <li>Follow me on <a href="http://bit.ly/AlonePhilic-on-Twitter">Twitter</a></a></li>
             <li>Contact me via Mail</li>
-            <li>Mail ID: alonephilicreal@proton.me</li>
+            <li>Mail ID: akhi.akxu@gmail.com</li>
         </ul>
 
 </details>
