@@ -3,7 +3,7 @@
         Welcome to my git 🤗
         
     
-![My Card Name](https://cardivo.vercel.app/api?name=ALONEPHILIC&description=Welcome%20to%20my%20git%20%20&image=https://telegra.ph/file/53895fffeaa1197d1b9dd.jpg/images?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=alone.philic&github=Alone-Philic&twitter=@AlonePhilicReal&pattern=leaf&colorPattern=%23eaeaea)
+![My Card Name](https://cardivo.vercel.app/api?name=ALONEPHILIC&description=Welcome%20to%20my%20git%20%20&image=https://telegra.ph/file/53895fffeaa1197d1b9dd.jpg/images?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=akhi_akxu&github=Alone-Philic&twitter=@akhi_akxu&pattern=leaf&colorPattern=%23eaeaea)
 
 </p>
     
