@@ -1,3 +1,4 @@
+<!--
 <h2>Hello there 👋</h2>
     <p>
         Welcome to my git 🤗
@@ -59,7 +60,7 @@
         </ul>
     
 </details>
-
+-->
 <!--
 Follow me on Instagram @alone.philic 
 https://bit.ly/AlonePhilic
